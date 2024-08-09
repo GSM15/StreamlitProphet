@@ -5,3 +5,5 @@ streamlit
 scikit-learn
 matplotlib
 prophet==1.1
+setuptools>=42
+wheel
