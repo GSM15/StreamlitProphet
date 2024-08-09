@@ -1,0 +1,8 @@
+pandas==2.2.2
+numpy==2.0.1
+pip==24.0
+streamlit
+scikit-learn
+matplotlib
+cross_validation
+performance_metrics
