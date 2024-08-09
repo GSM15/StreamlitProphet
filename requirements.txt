@@ -1,7 +1,7 @@
 pandas==2.2.2
-numpy==2.0.1
+numpy==1.25
 pip==24.0
 streamlit
 scikit-learn
 matplotlib
-prophet==1.1.5
+prophet==1.1
